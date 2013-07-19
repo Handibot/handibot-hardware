@@ -1,1 +1,1 @@
-Initial Handibot Model 1.00.00 (Shown at launch at HIW and Marker Faire, San Mateo, May 2013)
+Initial Handibot V 1.00.00 (Publically shown at launch at HIW and Marker Faire, San Mateo, May 2013; earlier prototypes from 7/2012)
