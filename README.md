@@ -12,7 +12,7 @@ You can put your Handibot tool to work on a table, the floor, the ceiling, the w
 
 Open Source
 ===========
-Handibot are an “open innovation” project. We’re setting up an open application and resource system to encourage the development of job-related apps that are ready to run on any Handibot.
+Handibot is an “open innovation” project. We’re setting up an open application and resource system to encourage the development of job-related apps that are ready to run on any Handibot.
 
 And to encourage the evolution of hardware and accessories, Handibot tools will be open source hardware. This repository is the beginning of our documentation of the Handibot system.
 
