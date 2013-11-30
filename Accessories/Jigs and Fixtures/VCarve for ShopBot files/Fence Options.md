@@ -2,7 +2,7 @@
 
 Two options for a fixed front fence for a Handibot Smart Power Tool. The edge of the fences line up with the Y=0 point of the tool when zeroed with the homing switches, which gives an accurate reference point for cutting.
 
-Two options are shown for a replaceable sacrificial section in the section where cutting happens..an press-fit insert that is cut with the Handibot, and a 1/4"  thick insert that is attached with double-sided carpet tape.
+Two options are shown for a replaceable sacrificial section in the section where cutting happens..a press-fit insert that is cut with the Handibot, and a 1/4"  thick insert that is attached with double-sided carpet tape.
 
 The parts are cut with a 1/4" diameter bit and the file has two layers. The *t-nut pocket* layer contains shallow recesses for the two t-nuts and should be run first. The *cutout* layer drills holes and cuts out the fence.
 
