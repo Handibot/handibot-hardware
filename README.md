@@ -21,5 +21,6 @@ See these links for more details.
 
 * [Handibot Kickstarter](http://www.kickstarter.com/projects/1320575205/handibottm-a-smart-digital-power-tool?ref=live)
 * [Handibot Website](http://www.handibot.com)
-* [Simplified Sketchup Model] (http://sketchup.google.com/3dwarehouse/details?mid=61ecf83f5ee32cb36cff504f85d47b95&prevstart=0)
+* [Simplified Sketchup Models] (http://sketchup.google.com/3dwarehouse/search?q=handibot&styp=m&scoring=t&btnG=Search)
+
  
