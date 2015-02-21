@@ -1,2 +1,0 @@
-Initial Handibot V 1.00.00 (Publically shown at launch at HIW and Marker Faire, San Mateo, May 2013; earlier prototypes from 7/2012)
-Handibot V 1.01.00 (First Kickstarter Production version; from 9/10/2013)
