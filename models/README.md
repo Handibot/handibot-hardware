@@ -9,4 +9,4 @@ Handibot Base Model (STP) History
 * Handibot V 1.10.00 (1/15/2015; Updated "1.1 Developer Edition")
 * Handibot V 1.10.07 (9/18/2015; last release of "Developer Edition")
 
-* Handibot V 2.00.00 (expected release production Handibot ~ 10/15/15)
+* Handibot V 2.00.00 (expected release production Handibot ~ 10/15/15) 
