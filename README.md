@@ -4,7 +4,7 @@ handibot-hardware
 Primary structure of Handibot Smart tool
 
 
-![Handibot Assembly](../images/model.jpg)
+![Handibot Assembly](https://github.com/Handibot/handibot-hardware/blob/images/model.jpg)
 
 A Handibot tool is a new kind of portable, digitally-controlled power tool for cutting, drilling, carving, and many other machining operations– the first Universal Digital Power Tool (UDPT) – or just, a Smart Tool. If you're familiar with industrial CNC (computer numerically controlled) equipment, think of the Handibot tool as a portable version of CNC. But instead of taking material to a stationary machine, you bring the Handibot to your material -- your jobsite, your remodeling task, your project, your work.
 
