@@ -16,7 +16,7 @@ Handibot is an “open innovation” project. We’re setting up an open application a
 
 And to encourage the evolution of hardware and accessories, Handibots are open source hardware (OSH or OSHW). This GitHub repository is the definitive open source hardware documentation for the Handibot system.
 
-The philosophy of this open-source project and our plans for its development can be found on the [Handibot website Open-Innovation pages](http:ww.handibot.com). We recognize that hardware sources and documentation placed on GitHub, while properly archival, can be difficult to view. So as a supplement, we additionally place the definitive STP files as well as additional production files and documents on more exploration-friendly sites which we strive to keep current.
+The philosophy of this open-source project and our plans for its development can be found on the [Handibot website Open-Innovation pages](https://handibot.com/open-source.php#open_innovation). We recognize that hardware sources and documentation placed on GitHub, while properly archival, can be difficult to view. So as a supplement, we additionally place the definitive STP files as well as additional production files and documents on more exploration-friendly sites which we strive to keep current.
 
 At the moment, Handibot materials can be explored on [GrabCAD](https://workbench.grabcad.com/workbench/projects/gcuAc_g79JwJj5xoyB_sCtAKoUyXaXH0NyeRYptWOwEOWN#/space/gc7w847Pt4uE0Y2-VXNzofMmxgbYGKxMjhjdYk3aCMUUWK/folder/2032714). 
 
